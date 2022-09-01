@@ -1,3 +1,7 @@
+#
+
+## Link to deploy website [here](https://sleepy-shelf-22914.herokuapp.com/)
+
 ## Task
 
 Build a text editor that runs in the browser.
@@ -42,22 +46,15 @@ THEN I should have proper build scripts for a webpack application
 
 ## Mock-Up
 
-## Technologies used:
-
 ## Installation:
 
 Clone the repository using SSH keys:
 
-git clone git@github.com:smeea-2018/social-network-api.git
+git clone git@github.com:smeea-2018/text-editor.git
 
 Install the required packages
 
 npm install
-npm i express
-npm i dotevnv
-npm install mongoose --save
-
-Create database and insert value in datbase
 
 Start execution
 npm run start
@@ -65,5 +62,3 @@ npm run start
 ## Contact Me:
 
 <a href = "mailto: smeeaa131@gmail.com"> email </a>
-
-https://sleepy-shelf-22914.herokuapp.com/
